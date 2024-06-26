@@ -26,7 +26,7 @@
   --granite-gray: hsl(0, 0%, 40%);
   --go-green_50: hsla(145, 63%, 42%, 0.5);
   --go-green_8: hsla(145, 63%, 42%, 0.08);
-  --go-green_5: hsla(145, 63%, 42%, 0.05);
+  --go-green_5: hsl(208, 100%, 97%);
   --light-gray: hsl(0, 0%, 80%);
   --mint-cream: hsl(208, 100%, 97%);
   --cultured: hsl(0, 0%, 93%);
